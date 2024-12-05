@@ -12,6 +12,6 @@
     "@wordpress/scripts": "^28.3.0"
   },
   "dependencies": {
-    "@wordpress/dataviews": "4.2.0"
+    "@wordpress/dataviews": "^4.9.1-next.cd6172eb0.0"
   }
 }

@@ -1,4 +1,4 @@
-import { DataViews, filterSortAndPaginate } from '@wordpress/dataviews';
+import { DataViews, filterSortAndPaginate } from '@wordpress/dataviews/wp';
 import { getTopicsElementsFormat } from './utils';
 import { useState, useMemo } from '@wordpress/element';
 import {
